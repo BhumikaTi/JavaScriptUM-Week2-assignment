@@ -12,7 +12,7 @@ console.log("Background image and text are set to the image that is being hovere
        function unDo(){
 
         document.getElementById("image").style.backgroundImage = "url('')";
-        document.getElementById("image").innerHTML= "Hover over an image below to deisplay here.";
+        document.getElementById("image").innerHTML= "Hover over an image below to display here.";
 
         console.log("Background image and text are now reset to the original");
         /* In this function you should 
